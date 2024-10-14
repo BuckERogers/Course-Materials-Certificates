@@ -5,7 +5,7 @@ This repository contains the course materials, exercises, projects, and completi
 
 ## LinkedIn Courses
 ### Project Management
-- [Time Management: Working from Home]([LinkedIn/Courses/Course1/](https://www.linkedin.com/learning/certificates/cd5e76f2b636bf656a5dfcab3e6e1b1cf09df0e0906a30697fa274eb177fa414?u=75078898))
+- [Time Management: Working from Home](https://github.com/BuckERogers/Course-Materials-Certificates/blob/main/CertificateOfCompletion_Time%20Management%20Working%20from%20Home.pdf)
 - [Course 2 Name](LinkedIn/Courses/Course2/)
   
 ### Certificates
